@@ -1,5 +1,5 @@
 # HR-Analytics-Dashboard(Interactive Dashboard Created Using Power-BI)
-##Project Overview
+## Project Overview
 This project is focused on analyzing HR data to provide actionable insights into workforce trends using Power BI. The dashboard highlights key metrics and visualizations to help organizations understand employee dynamics and attrition patterns, aiding in strategic decision-making.
 ## Dataset Used
 <a href="https://github.com/junaidkhan16/HR-Analytics-Dashboard/blob/main/HR_Analytics.csv">Dataset</a>
@@ -28,5 +28,7 @@ Employees earning less than $10,000 annually (209 cases) showed significantly hi
 Attrition by Years at the Company:
 
 Employees with less than five years at the company accounted for the majority of attrition cases.
+## Dashboard Pdf
+<a href="https://github.com/junaidkhan16/HR-Analytics-Dashboard/blob/main/HR%20data%20analytics%201.pdf">Dashboard pdf</a>
 ## Conclusion
 The analysis revealed that low salary ranges, specific job roles (Sales Executives and Representatives), and employees in early career stages are major contributors to attrition. These insights suggest focusing on competitive compensation packages, enhanced career development opportunities, and targeted retention strategies to reduce attrition rates.
