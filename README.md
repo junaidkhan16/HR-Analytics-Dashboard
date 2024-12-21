@@ -3,8 +3,7 @@
 This project is focused on analyzing HR data to provide actionable insights into workforce trends using Power BI. The dashboard highlights key metrics and visualizations to help organizations understand employee dynamics and attrition patterns, aiding in strategic decision-making.
 ## Dataset Used
 <a href="https://github.com/junaidkhan16/HR-Analytics-Dashboard/blob/main/HR_Analytics.csv">Dataset</a>
-##KPI's Used
-Key Performance Indicators (KPIs):
+## KPI's Used
 -Total Employees: 446
 -Attrition Count: 92
 -Attrition Rate: 21%
@@ -13,8 +12,7 @@ Key Performance Indicators (KPIs):
 -Years of Experience: 7.28 years
 ## Dashboard Link
 <a href="https://github.com/junaidkhan16/HR-Analytics-Dashboard/blob/main/HR%20data%20analytics%20report.pbix">Dashboard link</a>
-##Key Insights
-Key Insights:
+## Key Insights
 Attrition by Education:
 
 Marketing (36%) and Life Sciences (34%) graduates experienced the highest attrition rates.
@@ -30,5 +28,5 @@ Employees earning less than $10,000 annually (209 cases) showed significantly hi
 Attrition by Years at the Company:
 
 Employees with less than five years at the company accounted for the majority of attrition cases.
-##Conclusion
+## Conclusion
 The analysis revealed that low salary ranges, specific job roles (Sales Executives and Representatives), and employees in early career stages are major contributors to attrition. These insights suggest focusing on competitive compensation packages, enhanced career development opportunities, and targeted retention strategies to reduce attrition rates.
